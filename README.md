@@ -5,5 +5,10 @@ gitflowテスト
 gitflowテストgitflowテスト
 gitflowテストgitflowテストgitflowテストgitflowテスト
 gitflowテストgitflowテストgitflowテストgitflowテストgitflowテストgitflowテストgitflowテストgitflowテスト
+<<<<<<< HEAD
 gitflowテストgitflowテストgitflowテストgitflowテストgitflowテストgitflowテストgitflowテスト
+=======
+gitflowテストgitflowテストgitflowテストgitflowテストgitflowテストgitflowテストgitflowテストgitflowテスト
+main
+>>>>>>> sample
 
