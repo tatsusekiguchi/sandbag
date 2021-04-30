@@ -4,6 +4,6 @@ gitflowテスト
 gitflowテスト
 gitflowテストgitflowテスト
 gitflowテストgitflowテストgitflowテストgitflowテスト
-gitflowテストgitflowテストgitflowテストgitflowテスト
+gitflowテストgitflowテストgitflowテストgitflowテスト 
 
 
